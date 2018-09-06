@@ -1,0 +1,4 @@
+Pronto,3.4
+Medi,11.2
+Prenti,35.2
+Aolo,2

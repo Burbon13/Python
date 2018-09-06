@@ -1,0 +1,12 @@
+Paracetamol,10.4
+Parasinus,3.4
+Vit,2
+Apa,10.2
+Spirt,4.2
+Bandaj,4.3
+Peansa,23.4
+Crosa,2
+Plasture,5.2
+Medica,41
+Altrus,3
+Nurofen 500mg,4

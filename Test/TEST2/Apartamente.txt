@@ -1,0 +1,11 @@
+6,Popescu,1
+8,Modrisan,2
+2,Bodean,3
+13,Roatis,2
+121,Medelcu,5
+3,Ninu,9
+7,Plava,2
+888,Satana,2
+666,Narnia,2
+123,Og,4
+16,Da,2

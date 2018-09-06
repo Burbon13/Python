@@ -1,0 +1,3 @@
+13,Popescu,3
+2,Roatis,2
+8,Bodean,3
